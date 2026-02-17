@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Climate Change Trend Analysis and Prediction Model",
+    "title_cn": "\u6c14\u5019\u53d8\u5316\u8d8b\u52bf\u5206\u6790\u4e0e\u9884\u6d4b\u6a21\u578b",
+    "description": "Develop a comprehensive model to analyze historical climate trends and predict future climate conditions based on the 75-year dataset.",
+    "description_cn": "\u5f00\u53d1\u4e00\u4e2a\u7efc\u5408\u6a21\u578b\uff0c\u57fa\u4e8e75\u5e74\u7684\u6570\u636e\u96c6\u5206\u6790\u5386\u53f2\u6c14\u5019\u8d8b\u52bf\u5e76\u9884\u6d4b\u672a\u6765\u6c14\u5019\u6761\u4ef6\u3002",
+    "key_features": [
+      "Time series analysis of temperature, radiation, and wind patterns",
+      "Development of predictive models using machine learning algorithms",
+      "Visualization dashboard for trend monitoring",
+      "Uncertainty analysis of future predictions"
+    ],
+    "key_features_cn": [
+      "\u6e29\u5ea6\u3001\u8f90\u5c04\u548c\u98ce\u6a21\u5f0f\u7684\u65f6\u95f4\u5e8f\u5217\u5206\u6790",
+      "\u4f7f\u7528\u673a\u5668\u5b66\u4e60\u7b97\u6cd5\u5f00\u53d1\u9884\u6d4b\u6a21\u578b",
+      "\u8d8b\u52bf\u76d1\u6d4b\u53ef\u89c6\u5316\u4eea\u8868\u677f",
+      "\u672a\u6765\u9884\u6d4b\u7684\u4e0d\u786e\u5b9a\u6027\u5206\u6790"
+    ],
+    "technical_approach": "Time series forecasting, regression analysis, LSTM neural networks",
+    "technical_approach_cn": "\u65f6\u95f4\u5e8f\u5217\u9884\u6d4b\u3001\u56de\u5f52\u5206\u6790\u3001LSTM\u795e\u7ecf\u7f51\u7edc"
+  },
+  {
+    "title": "Extreme Weather Event Detection and Early Warning System",
+    "title_cn": "\u6781\u7aef\u5929\u6c14\u4e8b\u4ef6\u68c0\u6d4b\u4e0e\u9884\u8b66\u7cfb\u7edf",
+    "description": "Create a system to identify and predict extreme weather events such as heatwaves, cold snaps, and high wind events.",
+    "description_cn": "\u521b\u5efa\u4e00\u4e2a\u7cfb\u7edf\u6765\u8bc6\u522b\u548c\u9884\u6d4b\u6781\u7aef\u5929\u6c14\u4e8b\u4ef6\uff0c\u5982\u70ed\u6d6a\u3001\u5bd2\u6f6e\u548c\u5927\u98ce\u4e8b\u4ef6\u3002",
+    "key_features": [
+      "Real-time monitoring of climate parameters",
+      "Anomaly detection algorithms for early warning",
+      "Risk assessment framework for different event types",
+      "Notification system for stakeholders"
+    ],
+    "key_features_cn": [
+      "\u6c14\u5019\u53c2\u6570\u7684\u5b9e\u65f6\u76d1\u6d4b",
+      "\u7528\u4e8e\u65e9\u671f\u9884\u8b66\u7684\u5f02\u5e38\u68c0\u6d4b\u7b97\u6cd5",
+      "\u4e0d\u540c\u4e8b\u4ef6\u7c7b\u578b\u7684\u98ce\u9669\u8bc4\u4f30\u6846\u67b6",
+      "\u5229\u76ca\u76f8\u5173\u8005\u901a\u77e5\u7cfb\u7edf"
+    ],
+    "technical_approach": "Anomaly detection, statistical process control, classification algorithms",
+    "technical_approach_cn": "\u5f02\u5e38\u68c0\u6d4b\u3001\u7edf\u8ba1\u8fc7\u7a0b\u63a7\u5236\u3001\u5206\u7c7b\u7b97\u6cd5"
+  },
+  {
+    "title": "Renewable Energy Potential Assessment Platform",
+    "title_cn": "\u53ef\u518d\u751f\u80fd\u6e90\u6f5c\u529b\u8bc4\u4f30\u5e73\u53f0",
+    "description": "Build a platform to evaluate solar and wind energy potential based on historical climate data patterns.",
+    "description_cn": "\u6784\u5efa\u4e00\u4e2a\u57fa\u4e8e\u5386\u53f2\u6c14\u5019\u6570\u636e\u6a21\u5f0f\u8bc4\u4f30\u592a\u9633\u80fd\u548c\u98ce\u80fd\u6f5c\u529b\u7684\u5e73\u53f0\u3002",
+    "key_features": [
+      "Solar irradiance mapping and analysis",
+      "Wind resource assessment and mapping",
+      "Energy production forecasting models",
+      "Economic viability analysis tools"
+    ],
+    "key_features_cn": [
+      "\u592a\u9633\u8f90\u7167\u5ea6\u6620\u5c04\u548c\u5206\u6790",
+      "\u98ce\u80fd\u8d44\u6e90\u8bc4\u4f30\u548c\u6620\u5c04",
+      "\u80fd\u6e90\u751f\u4ea7\u9884\u6d4b\u6a21\u578b",
+      "\u7ecf\u6d4e\u53ef\u884c\u6027\u5206\u6790\u5de5\u5177"
+    ],
+    "technical_approach": "Spatial analysis, energy conversion modeling, economic analysis",
+    "technical_approach_cn": "\u7a7a\u95f4\u5206\u6790\u3001\u80fd\u6e90\u8f6c\u6362\u5efa\u6a21\u3001\u7ecf\u6d4e\u5206\u6790"
+  },
+  {
+    "title": "Climate Impact Analysis on Ecosystems and Agriculture",
+    "title_cn": "\u6c14\u5019\u53d8\u5316\u5bf9\u751f\u6001\u7cfb\u7edf\u548c\u519c\u4e1a\u7684\u5f71\u54cd\u5206\u6790",
+    "description": "Analyze how changing climate patterns might impact local ecosystems, biodiversity, and agricultural productivity.",
+    "description_cn": "\u5206\u6790\u6c14\u5019\u53d8\u5316\u6a21\u5f0f\u5982\u4f55\u5f71\u54cd\u5f53\u5730\u751f\u6001\u7cfb\u7edf\u3001\u751f\u7269\u591a\u6837\u6027\u548c\u519c\u4e1a\u751f\u4ea7\u529b\u3002",
+    "key_features": [
+      "Correlation analysis between climate variables and ecosystem indicators",
+      "Scenario modeling for different climate change trajectories",
+      "Vulnerability assessment framework",
+      "Adaptation strategy recommendations"
+    ],
+    "key_features_cn": [
+      "\u6c14\u5019\u53d8\u91cf\u4e0e\u751f\u6001\u7cfb\u7edf\u6307\u6807\u7684\u76f8\u5173\u6027\u5206\u6790",
+      "\u4e0d\u540c\u6c14\u5019\u53d8\u5316\u8f68\u8ff9\u7684\u60c5\u666f\u5efa\u6a21",
+      "\u8106\u5f31\u6027\u8bc4\u4f30\u6846\u67b6",
+      "\u9002\u5e94\u7b56\u7565\u5efa\u8bae"
+    ],
+    "technical_approach": "Correlation analysis, scenario planning, impact assessment methodologies",
+    "technical_approach_cn": "\u76f8\u5173\u6027\u5206\u6790\u3001\u60c5\u666f\u89c4\u5212\u3001\u5f71\u54cd\u8bc4\u4f30\u65b9\u6cd5"
+  }
+]
